@@ -1,0 +1,7 @@
+aiogram==2.25.2
+aiohttp==3.8.6
+psycopg2-binary==2.9.9
+qrcode==7.4.2
+Pillow==10.4.0
+python-dotenv==1.0.1
+requests==2.31.0
